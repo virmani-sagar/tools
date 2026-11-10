@@ -1,0 +1,19 @@
+software-library/
+│
+├── index.html
+├── softwares.json
+│
+├── downloads/
+│   ├── application-1/
+│   │   ├── application-1.exe
+│   │   └── application-1.AppImage
+│   │
+│   └── application-2/
+│       └── application-2.zip
+│
+├── software/
+│   ├── application-1.html
+│   └── application-2.html
+│
+└── assets/
+    └── screenshots/

@@ -1,0 +1,47 @@
+
+{
+  "name": "openEd Labs Software Library",
+  "description": "Free software, desktop applications and digital tools developed by openEd Labs.",
+  "version": "1.0",
+  "softwares": [
+    {
+      "id": "software-001",
+      "name": "Your Software Name",
+      "description": "A brief description of your software, its purpose and key features.",
+      "category": "Utilities",
+      "icon": "💻",
+      "version": "1.0.0",
+      "platforms": "Windows, Linux",
+      "updated": "2026-11-09",
+      "license": "Free",
+      "tags": [
+        "Python",
+        "Desktop",
+        "Utility"
+      ],
+      "featured": true,
+      "downloadUrl": "https://github.com/USERNAME/REPOSITORY/releases/latest",
+      "detailsUrl": "https://github.com/USERNAME/REPOSITORY"
+    },
+    {
+      "id": "software-002",
+      "name": "Another Software",
+      "description": "Describe another application published by openEd Labs.",
+      "category": "Productivity",
+      "icon": "⚡",
+      "version": "1.0.0",
+      "platforms": "Web, Windows, Linux",
+      "updated": "2026-11-09",
+      "license": "Free",
+      "tags": [
+        "Productivity",
+        "Automation",
+        "Tools"
+      ],
+      "featured": false,
+      "downloadUrl": "",
+      "detailsUrl": ""
+    }
+  ]
+}
+
